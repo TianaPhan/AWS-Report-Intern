@@ -1,4 +1,4 @@
-
+baseURL = "https://tianaphan.github.io/AWS-Report-Intern/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
