@@ -17,7 +17,6 @@ pre: " <b> 3. </b> "
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-![event2](../images/event2.png)
 
 ### Mục Đích Của Sự Kiện
 
@@ -142,4 +141,3 @@ Tôi tiếp thu được nhiều kiến thức thực tế về kiến trúc clo
 
 > Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
 
-![event1](/images/event1.png)

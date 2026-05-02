@@ -17,7 +17,6 @@ pre: " <b> 3. </b> "
 
 &emsp;**Role:** Attendee 
 
-![event2](/images/event2.png)
 
 ### Event Objectives
 
@@ -152,6 +151,6 @@ I gained a lot of practical knowledge about modern cloud architecture and AI app
 
 > Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
 
-![event1](/images/event1.png)
+
 
 
