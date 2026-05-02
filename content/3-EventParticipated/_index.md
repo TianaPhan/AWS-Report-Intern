@@ -17,7 +17,7 @@ pre: " <b> 3. </b> "
 
 &emsp;**Role:** Attendee 
 
-![event2](../images/event2.png)
+![event2](/images/event2.png)
 
 ### Event Objectives
 

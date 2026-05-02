@@ -29,7 +29,6 @@ chapter: false
 
 
 
-
 ### Nội dung báo cáo
 
 1.  [Nhật kí công việc](1-Worklog/)
