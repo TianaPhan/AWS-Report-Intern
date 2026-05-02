@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 09/03/2026 to 02/05/2026
 
-![Your profile picture](/images/avatar1.png)
+![Quynh Do](images/avatar1.png?width=600px)
 
 ### Report Content
 

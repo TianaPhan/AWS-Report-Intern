@@ -25,7 +25,8 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 09/03/2026 đến ngày 02/05/2026
 
-![Ảnh đại diện của bạn](/images/avatar1.png)
+![Đỗ Thị Như Quỳnh](../images/avatar1.png?width=600px)
+
 
 
 

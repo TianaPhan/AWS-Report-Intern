@@ -1,10 +1,13 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://tianaphan.github.io/AWS-Report-Intern/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
 
 # For search functionality
 [outputs]
@@ -48,3 +51,4 @@ weight = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
