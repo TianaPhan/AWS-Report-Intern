@@ -17,7 +17,7 @@ pre: " <b> 3. </b> "
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
-![event2](/images/event2.png)
+![event2](../images/event2.png)
 
 ### Mục Đích Của Sự Kiện
 
